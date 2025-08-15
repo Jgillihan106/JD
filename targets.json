@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://creativemarket.com/product/123456",
+    "add": "//button[contains(text(),'Add to Cart')]",
+    "checkout": "//button[contains(text(),'Checkout')]",
+    "title": "Ultimate Retro Brush Texture Pack",
+    "sell_price": 14
+  },
+  {
+    "url": "https://gumroad.com/l/abcdef",
+    "add": "//button[contains(text(),'Buy this')]",
+    "checkout": "//button[contains(text(),'Pay')]",
+    "title": "Massive AI Portrait Art Bundle",
+    "sell_price": 18
+  }
+]
