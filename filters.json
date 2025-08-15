@@ -1,0 +1,12 @@
+{
+  "categories": ["AI Art Packs", "Texture Packs", "Font Bundles", "Digital Templates"],
+  "price_range": {"min": 3, "max": 15},
+  "discount_min": 50,
+  "license_type": "Commercial or Resale Rights",
+  "trend_rank_max_percent": 20,
+  "sales_velocity_min_units_48h": 20,
+  "profit_margin_target": 2.0,
+  "auto_relist": true,
+  "repricing_strategy": {"undercut_amount": 1},
+  "cross_list_platforms": ["ArtStation", "GraphicRiver", "DeviantArt", "Discord Niche Markets"]
+}
